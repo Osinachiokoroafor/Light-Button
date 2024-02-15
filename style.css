@@ -14,8 +14,8 @@ body{
 .button{
     display: flex;
     max-width: 14rem;
-    justify-content: center;
-    align-items: center;
+    /* justify-content: center; */
+    /* align-items: center; */
     flex-wrap: wrap;
     gap:2rem;
 }
